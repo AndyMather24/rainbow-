@@ -1,0 +1,3 @@
+furry
+fluffy
+bald
